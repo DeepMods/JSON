@@ -2,7 +2,7 @@
   "ID": "Ymetro-1",
   "Title": "You can increase the subway map to an unreadable state",
   "Steps to reproduse": [
-    "1. Open subway map: https://......"
+    "1. Open subway map: https://......",
     "2. Click on icon + more than six times until it stops increasing"
     ],
   "Actual result": "subway map increasing to unreadable view",
